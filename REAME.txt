@@ -1,4 +1,0 @@
-matrix
-
-python 3 project to represent and operate on matrices from the command line
-
